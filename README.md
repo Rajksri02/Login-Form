@@ -7,7 +7,7 @@ A modern and responsive **Glassmorphism Login Form** built using **HTML5** and *
 ## 📸 Preview
 
 
-![Login Form Screenshot](screenshot.png)
+![Login Form Screenshot](https://raw.githubusercontent.com/Rajksri02/Login-Form/main/screenshot.png)
 
 ---
 
@@ -51,7 +51,7 @@ Simply open the `index.html` file in your browser.
 
 ## 📷 Screenshot
 
-<img src="screenshot.png" width="700">
+<img src="https://raw.githubusercontent.com/Rajksri02/Login-Form/main/screenshot.png" width="700">
 
 ---
 
